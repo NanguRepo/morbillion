@@ -7,9 +7,9 @@
 </svelte:head>
 
 <script>
-	let x = 1, y = 147508479;
-	let x2y = x => y = x * 147508479
-	let y2x = y => x = y / 147508479
+	let x = 1, y = 161470688;
+	let x2y = x => y = x * 161470688
+	let y2x = y => x = y / 161470688
 	$: x2y(x)
 	$: y2x(y)
 	const images = [
