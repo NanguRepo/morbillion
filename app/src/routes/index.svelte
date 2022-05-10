@@ -21,7 +21,12 @@
 		"https://pbs.twimg.com/media/FPlq1KZXEAMY1da?format=png&name=900x900",
 		"https://pbs.twimg.com/media/FP4E4mPWYAsYWFj?format=jpg&name=medium",
 		"https://pbs.twimg.com/media/FQEx3OBXEAAtdrU?format=jpg&name=medium",
-		"https://pbs.twimg.com/media/FPrKZ30XoAwSmOb?format=jpg&name=medium"
+		"https://pbs.twimg.com/media/FPrKZ30XoAwSmOb?format=jpg&name=medium",
+		"https://cdn.discordapp.com/attachments/821839416746180608/965386992139518024/Screenshot_20220418-010255_Reddit.jpg",
+		"https://cdn.discordapp.com/attachments/821839416746180608/965386992433123368/Screenshot_20220418-010206_Reddit.jpg",
+		"https://cdn.discordapp.com/attachments/821839416746180608/965386992667992124/Screenshot_20220418-010112_Reddit.jpg",
+		"https://cdn.discordapp.com/attachments/821839416746180608/965386992944808016/Screenshot_20220418-010052_Reddit.jpg",
+		"https://cdn.discordapp.com/attachments/821839416746180608/965386993179701318/Screenshot_20220418-010023_Reddit.jpg"
 	]
 	let image = images[Math.floor(Math.random() * images.length)]
 	let numberPicked
